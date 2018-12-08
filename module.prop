@@ -1,0 +1,7 @@
+id=moto_cam2_app
+name=moto_cam2_app
+version=v1.0.0
+versionCode=1
+author=filipepferraz
+description= Moto camera2 with full support.
+minMagisk=1500
